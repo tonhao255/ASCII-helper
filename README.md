@@ -12,16 +12,16 @@ _\ \ |   \  |  /    _\ \ | |_  |   \  | |   | |_  | |\  |   | |   _\ \
 </pre>
 
 Features:
-<li>
- <ul>Cursor movement with arrow keys</ul>
- <ul>Backspace to delete character and move back</ul>
- <ul>Insert and Delete keys to create and destroy columns and rows</ul>
- <ul>Home/End and PgUp/PgDn keys to go to the start/end of the row and column, respectively </ul>
- <ul>Enter key to toggle the current character between frequently used characters (customizable by the user)</ul>
- <ul>Tab toggles "edit mode", where the cursor moves automatically forwards or not</ul>
-</li>
+<ul>
+ <li>Cursor movement with arrow keys</ul>
+ <li>Backspace to delete character and move back</ul>
+ <li>Insert and Delete keys to create and destroy columns and rows</ul>
+ <li>Home/End and PgUp/PgDn keys to go to the start/end of the row and column, respectively </ul>
+ <li>Enter key to toggle the current character between frequently used characters (customizable by the user)</ul>
+ <li>Tab toggles "edit mode", where the cursor moves automatically forwards or not</ul>
+</ul>
 
 Upcoming:
-<li>
- <ul>Copy and Paste through ctrl + shift + c/v</ul>
-</li>
+<ul>
+ <li>Copy and Paste through ctrl + shift + c/v</ul>
+</ul>
