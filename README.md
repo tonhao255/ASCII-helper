@@ -13,15 +13,11 @@ _\ \ |   \  |  /    _\ \ | |_  |   \  | |   | |_  | |\  |   | |   _\ \
 
 Features:
 <ul>
- <li>Cursor movement with arrow keys</li>
- <li>Backspace to delete character and move back</li>
- <li>Insert and Delete keys to create and destroy columns and rows</li>
- <li>Home/End and PgUp/PgDn keys to go to the start/end of the row and column, respectively </li>
- <li>Enter key to toggle the current character between frequently used characters (customizable by the user)</li>
- <li>Tab toggles "edit mode", where the cursor moves automatically forwards or not</li>
+ <li>uhh I didn't re-implement everything yet, thanks for the patience</li>
 </ul>
 
 Upcoming:
 <ul>
- <li>Copy and Paste through ctrl + shift + c/v</li>
+ <li>Everything else (I promisse it's gonna be cool)</li>
 </ul>
+
